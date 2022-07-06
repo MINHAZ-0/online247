@@ -165,7 +165,7 @@ $(document).ready(function () {
             ]
         },
       
-   /*
+   
             {
             name: ' ',
             poster: 'img/starsports.png',
@@ -232,7 +232,7 @@ $(document).ready(function () {
             sources: [
                 {src: ' http://103.167.190.250/hls/animalplanent.m3u8', type: 'application/x-mpegURL'},
             ]
-        },*/
+        },
                                           {
             name: 'SONY MAX HD',
             poster: 'https://minhaz-0.github.io/img/sonymaxhd.jpg',
@@ -242,7 +242,7 @@ $(document).ready(function () {
                 {src: ' http://103.55.144.46/hls/sonymaxhd.m3u8', type: 'application/x-mpegURL'},
             ]
         },
-      /*
+      
 
       
                                {
@@ -262,7 +262,8 @@ $(document).ready(function () {
             sources: [
                 {src: 'http://103.167.190.250/hls/ngohd.m3u8', type: 'application/x-mpegURL'},
             ]
-        },*/
+        },
+	
       
 	{
             name: 'JALSHA MOVIES HD',
@@ -282,7 +283,8 @@ $(document).ready(function () {
             sources: [
                 {src: 'http://103.55.144.46/hls/starjalsha.m3u8', type: 'application/x-mpegURL'},
             ]
-        },/*
+        },
+	
 
         {
             name: ' ',
@@ -292,8 +294,8 @@ $(document).ready(function () {
             sources: [
                 {src: 'http://103.55.144.46/hls/zeebangla.m3u8', type: 'application/x-mpegURL'},
             ]
-        },*/
-        {
+        },
+	 {
             name: 'SONY AATH',
             poster: 'https://minhaz-0.github.io/img/sonyaath.jpg',
             thumbnail: 'https://minhaz-0.github.io/img/sonyaath.jpg',
@@ -340,12 +342,12 @@ $(document).ready(function () {
             ]
         },
 
-
+*/
       
 	{
             name: 'CHANNEL I',
-            poster: '/img/channeli.jpg',
-            thumbnail: '/img/channeli.jpg',
+            poster: 'img/channeli.jpg',
+            thumbnail: 'img/channeli.jpg',
             autoplay: 'true',
             sources: [
                 {src:'https://tempx.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -353,8 +355,8 @@ $(document).ready(function () {
         },
 	{
             name: 'JAMUNA TV',
-            poster: '/img/jamunatv.jpg',
-            thumbnail: '/img/jamunatv.jpg',
+            poster: 'img/jamuna.jpg',
+            thumbnail: 'img/jamuna.jpg',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -380,7 +382,7 @@ $(document).ready(function () {
         },*/
 	{
             name: 'NEWS 24 HD',
-            poster: '/img/news24.jpg',
+            poster: 'img/news24.jpg',
             thumbnail: 'https://minhaz-0.github.io/img/news24.jpg',
             autoplay: 'true',
             sources: [
@@ -389,7 +391,7 @@ $(document).ready(function () {
         },
 	{
             name: 'DBC NEWS HD',
-            poster: '/img/dbcnews.jpg',
+            poster: 'img/dbcnews.jpg',
             thumbnail: 'https://minhaz-0.github.io/img/dbcnews.jpg',
             autoplay: 'true',
             sources: [
@@ -447,8 +449,8 @@ $(document).ready(function () {
         },*/
              {
                   name: 'MTV',
-            poster: 'https://minhaz-0.github.io/img/mtv.jpg',
-            thumbnail: 'https://minhaz-0.github.io/img/mtv.jpg',
+            poster: 'http://tv.bdixlivetv.xyz/img/mtv.png',
+            thumbnail: 'http://tv.bdixlivetv.xyz/img/mtv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8', type: 'application/x-mpegURL'},
@@ -516,8 +518,8 @@ $(document).ready(function () {
 		
 						    {
             name: 'DOYEL TV',
-            poster: 'https://minhaz-0.github.io/img/doyeltv.jpg',
-            thumbnail: 'https://minhaz-0.github.io/img/doyeltv.jpg',
+            poster: 'http://tv.bdixlivetv.xyz/img/doyeltv.png',
+            thumbnail: 'http://tv.bdixlivetv.xyz/img/doyeltv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -526,8 +528,8 @@ $(document).ready(function () {
 		
 						    {
             name: 'VOICE',
-            poster: 'https://minhaz-0.github.io/img/voice.jpg',
-            thumbnail: 'https://minhaz-0.github.io/img/voice.jpg',
+            poster: 'http://tv.bdixlivetv.xyz/img/voice.png',
+            thumbnail: 'http://tv.bdixlivetv.xyz/img/voice.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -542,19 +544,9 @@ $(document).ready(function () {
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
-        },/*
-								    {
-            name: ' ',
-            poster: 'img/voice.png',
-            thumbnail: 'img/voice.png',
-            autoplay: 'true',
-            sources: [
-                {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
-            ]
         },
 		
-		
-		             {
+		 {
             name: 'GANN BANGLA HD',
             poster: 'https://minhaz-0.github.io/img/gannbangla.jpg',
             thumbnail: 'https://minhaz-0.github.io/img/gannbangla.jpg',
@@ -562,7 +554,8 @@ $(document).ready(function () {
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
-        },*/
+        },
+	    /*
         {
             name: 'BANGLA TV HD',
             poster: 'https://minhaz-0.github.io/img/banglatv.jpg',
@@ -572,6 +565,7 @@ $(document).ready(function () {
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
+	    
         {
             name: 'DESH TV',
             poster: 'https://minhaz-0.github.io/img/deshtv.jpg',
@@ -581,6 +575,7 @@ $(document).ready(function () {
                 {src: 'https://somoy.appv.jagobd.com:444/somoy/deshtv.stream/live-orgin/deshtv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
+	*/
         {
             name: 'MOHONA TV HD',
             poster: 'https://minhaz-0.github.io/img/mohonatv.jpg',
@@ -590,6 +585,7 @@ $(document).ready(function () {
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
+	    /*
         {
             name: ' ',
             poster: 'img/sonyaath.png',
@@ -599,7 +595,7 @@ $(document).ready(function () {
                 {src: 'http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8', type: 'application/x-mpegURL'},
             ]
         },
-
+*/
 {
             name: 'BIJOY TV HD',
             poster: 'img/bijoy.png',
@@ -614,13 +610,14 @@ $(document).ready(function () {
 
         {
             name: 'NRB HD',
-            poster: 'img/nrbbd.png',
-            thumbnail: 'img/nrbbd.png',
+            poster: 'http://tv.bdixlivetv.xyz/img/nrbbd.png',
+            thumbnail: 'http://tv.bdixlivetv.xyz/img/nrbbd.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
-        },/*
+        },
+	    /*
         {
             name: 'SRISTY',
             poster: 'img/Sristy.png',
@@ -629,11 +626,12 @@ $(document).ready(function () {
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
-        },*/
+        },
+	*/
         {
             name: 'NANDAN',
-            poster: '/img/nandan.jpg',
-            thumbnail: '/img/nandan.jpg',
+            poster: 'http://tv.bdixlivetv.xyz/img/nandan.png',
+            thumbnail: 'http://tv.bdixlivetv.xyz/img/nandan.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -651,13 +649,14 @@ $(document).ready(function () {
         },
         {
             name: 'DESHE BIDESHE',
-            poster: '/img/deshvi.png',
-            thumbnail: '/img/deshvi.png',
+            poster: 'http://tv.bdixlivetv.xyz/img/deshvi.png',
+            thumbnail: 'http://tv.bdixlivetv.xyz/img/deshvi.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
+	    /*
         {
             name: 'BTV CTG',
             poster: '/img/cgtn.jpg',
@@ -666,7 +665,8 @@ $(document).ready(function () {
             sources: [
                 {src: 'https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8', type: 'application/x-mpegURL'},
             ]
-        },/*
+        }, 
+	    
    {
             name: ' ',
             poster: 'img/channeli.png',
@@ -738,23 +738,23 @@ $(document).ready(function () {
             sources: [
                 {src:'http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8', type: 'application/x-mpegURL'},
             ]
-        },/*
+        },
 	{
             name: 'BANGLA TV HD',
             poster: 'img/banglatv.png',
             thumbnail: 'img/banglatv.png',
             autoplay: 'true',
             sources: [
-                {src: 'https://somoy.appv.jagobd.com:444/somoy/banglatvhd.stream/playlist.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
-        },*/
+        },
 	{
             name: 'BIJOY TV',
             poster: 'img/bijoy.png',
             thumbnail: 'img/bijoy.png',
             autoplay: 'true',
             sources: [
-                {src: 'https://somoy.appv.jagobd.com:444/somoy/bijoy00.stream/playlist.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
         {
@@ -763,7 +763,7 @@ $(document).ready(function () {
             thumbnail: 'img/boishakhitv.png',
             autoplay: 'true',
             sources: [
-                {src: 'https://somoy.appv.jagobd.com:444/somoy/boishakhitv-org.stream/playlist.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
         {
@@ -772,18 +772,19 @@ $(document).ready(function () {
             thumbnail: 'img/Channel9.png',
             autoplay: 'true',
             sources: [
-                {src: 'https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/live-orgin/channel9hd.stream/chunks.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
         {
             name: 'MAASRANGA TV HD',
-            poster: '/img/maasranga.png',
-            thumbnail: '/img/maasranga.png',
+            poster: 'img/maasranga.jpg',
+            thumbnail: 'img/maasranga.jpg',
             autoplay: 'true',
             sources: [
-                {src: 'https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/playlist.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
-        },/*
+        },
+	    /*
 	{
             name: '',
             poster: 'img/independent.png',
@@ -840,8 +841,8 @@ $(document).ready(function () {
         },
 	{
             name: ' ',
-            poster: 'img/doyeltv.png',
-            thumbnail: 'img/doyeltv.png',
+            poster: 'img/doyeltv.jpg',
+            thumbnail: 'img/doyeltv.jpg',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -876,8 +877,8 @@ $(document).ready(function () {
         },*/
 	{
             name: 'DEEPTO TV HD',
-            poster: 'img/deeptotv.jpg',
-            thumbnail: 'img/deeptotv.jpg',
+            poster: 'img/deeptotv.jpeg',
+            thumbnail: 'img/deeptotv.jpeg',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/playlist.m3u8', type: 'application/x-mpegURL'},
@@ -891,7 +892,8 @@ $(document).ready(function () {
             sources: [
                 {src: 'https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8', type: 'application/x-mpegURL'},
             ]
-        },/*
+        },
+	    /*
 	{
             name: ' ',
             poster: 'img/channel24.png',
@@ -909,7 +911,8 @@ $(document).ready(function () {
             sources: [
                 {src: 'https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8', type: 'application/x-mpegURL'},
             ]
-        },/*
+        },
+	    /*
 	{
             name: ' ',
             poster: 'img/deshtv.jpg',
@@ -927,11 +930,12 @@ $(document).ready(function () {
             sources: [
                 {src: 'https://somoy.appv.jagobd.com:444/somoy/mohonatv00000223232244556633.stream/playlist.m3u8', type: 'application/x-mpegURL'},
             ]
-        },*/
+        },
+	*/
 	{
             name: 'RTV HD',
-            poster: '/img/rtv.jpg',
-            thumbnail: '/img/rtv.jpg',
+            poster: 'img/rtv.jpg',
+            thumbnail: 'img/rtv.jpg',
             autoplay: 'true',
             sources: [
                 {src: 'https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8', type: 'application/x-mpegURL'},

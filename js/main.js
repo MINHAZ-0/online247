@@ -774,8 +774,8 @@ $(document).ready(function () {
         },
         {
             name: ' ',
-            poster: 'img/Channel9.png',
-            thumbnail: 'img/Channel9.png',
+            poster: 'img/channel9.png',
+            thumbnail: 'img/channel9.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8', type: 'application/x-mpegURL'},

@@ -39,7 +39,7 @@ color:red;
 .topnav a.active {
   background-color: #2a3a4a;
   color: #fff;
-  border-radius:5px;
+  
 }
 
 .topnav .icon {

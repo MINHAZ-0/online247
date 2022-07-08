@@ -14,11 +14,11 @@ $(document).ready(function () {
         /*
         {
             name: ' ',
-            poster: 'https://minhaz-0.github.io/img/tsports.jpg',
-            thumbnail: 'https://minhaz-0.github.io/img/tsports.png',
+            poster: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjZWIaGSgCgjSXL__MwvIu3bmePAQqy1xOw&usqp=CAU',
+            thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjZWIaGSgCgjSXL__MwvIu3bmePAQqy1xOw&usqp=CAU',
             autoplay: 'true',
             sources: [
-                {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/playlist.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8', type: 'application/x-mpegURL'},
             ]
         },  
      

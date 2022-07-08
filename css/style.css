@@ -32,12 +32,12 @@ color:red;
 }
 
 .topnav a:hover {
-  background-color: #2a3a3a;
+  background-color: #2a3a4a;
   color: black;
 }
 
 .topnav a.active {
-  background-color: #000;
+  background-color: #2a3a4a;
   color: #fff;
   border-radius:5px;
 }

@@ -11,7 +11,7 @@ $(document).ready(function () {
                 {src: 'https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
-        /*
+        
         {
             name: ' ',
             poster: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjZWIaGSgCgjSXL__MwvIu3bmePAQqy1xOw&usqp=CAU',
@@ -21,7 +21,7 @@ $(document).ready(function () {
                 {src: 'https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8', type: 'application/x-mpegURL'},
             ]
         },  
-     
+     /*
        {
             name: 'EKATTOR TV',
             poster: 'https://minhaz-0.github.io/img/ekattortv.jpg',

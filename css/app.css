@@ -8171,7 +8171,7 @@ body.vjs-full-window {
 }
 
 .video-js .vjs-live-control {
-	color:red;
+	color: #fff;
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;

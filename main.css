@@ -30,6 +30,8 @@ body {
 }
 
 .video-js {
+width:auto;
+height:260px;
 }
 
 .vjs-playlist,
@@ -41,7 +43,7 @@ body {
 
 .vjs-playlist.vjs-playlist-horizontal {
     float: none;
-    height: 120px;
+    height: 110px;
     width: 100%;
 }
 

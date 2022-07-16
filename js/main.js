@@ -4,8 +4,8 @@ $(document).ready(function () {
     player.playlist([
                 {
             name: ' ',
-            poster: 'img/tsports.png',
-            thumbnail: 'img/tsports.png',
+            poster: 'https://minhaz-0.github.io/online247/img/tsports.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/tsports.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -70,8 +70,8 @@ $(document).ready(function () {
         
                {
             name: ' ',
-            poster: 'img/gtv.png',
-            thumbnail: 'img/gtv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/gtv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/gtv.png',
             autoplay: 'true',
             sources: [
                 {src: '', type: 'application/x-mpegURL'},
@@ -267,8 +267,8 @@ $(document).ready(function () {
         },
                  {
             name: ' ',
-            poster: 'img/natgeo.png',
-            thumbnail: 'img/natgeo.png',
+            poster: 'https://minhaz-0.github.io/online247/img/natgeo.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/natgeo.png',
             autoplay: 'true',
             sources: [
                 {src: 'http://103.167.190.250/hls/ngohd.m3u8', type: 'application/x-mpegURL'},
@@ -299,8 +299,8 @@ $(document).ready(function () {
 
         {
             name: ' ',
-            poster: 'img/zeebanglahd.png',
-            thumbnail: 'img/zeebanglahd.png',
+            poster: 'https://minhaz-0.github.io/online247/img/zeebanglahd.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/zeebanglahd.png',
             autoplay: 'true',
             sources: [
                 {src: 'http://103.55.144.46/hls/zeebangla.m3u8', type: 'application/x-mpegURL'},
@@ -357,8 +357,8 @@ $(document).ready(function () {
       
 	{
             name: ' ',
-            poster: 'img/channeli.png',
-            thumbnail: 'img/channeli.png',
+            poster: 'https://minhaz-0.github.io/online247/img/channeli.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/channeli.png',
             autoplay: 'true',
             sources: [
                 {src:'https://tempx.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -366,8 +366,8 @@ $(document).ready(function () {
         },
 	{
             name: ' ',
-            poster: 'img/jamunatv.png',
-            thumbnail: 'img/jamunatv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/jamunatv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/jamunatv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -375,28 +375,20 @@ $(document).ready(function () {
         },
 	{
             name: ' ',
-            poster: 'img/atnbangla.png',
-            thumbnail: 'img/atnbangla.png',
+            poster: 'https://minhaz-0.github.io/online247/img/atnbangla.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/atnbangla.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
-        /*
+        
+	
+        
 	{
             name: ' ',
-            poster: 'img/ekattortv.png',
-            thumbnail: 'img/ekattortv.png',
-            autoplay: 'true',
-            sources: [
-                {src: 'http://103.159.4.38:9191/BD-BANGLA-7/tracks-v1a1/mono.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-        */
-	{
-            name: ' ',
-            poster: 'img/news24.png',
-            thumbnail: 'img/news24.png',
+            poster: 'https://minhaz-0.github.io/online247/img/news24.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/news24.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -404,8 +396,8 @@ $(document).ready(function () {
         },
 	{
             name: ' ',
-            poster: 'img/dbcnews.png',
-            thumbnail: 'img/dbcnews.png',
+            poster: 'https://minhaz-0.github.io/online247/img/dbcnews.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/dbcnews.png',
             autoplay: 'true',
             sources: [
                 {src:'https://tempx.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -413,7 +405,7 @@ $(document).ready(function () {
         },
       		        {
             name: ' ',
-            poster: 'img/rtv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/rtv.png',
             thumbnail: 'https://minhaz-0.github.io/img/rtv.jpg',
             autoplay: 'true',
             sources: [
@@ -422,17 +414,17 @@ $(document).ready(function () {
         },
           		        {
             name: ' ',
-            poster: 'img/9xm.png',
-            thumbnail: 'img/9xm.png',
+            poster: 'https://minhaz-0.github.io/online247/img/9xm.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/9xm.png',
             autoplay: 'true',
             sources: [
-                {src: 'https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?token=soheliptv01826655778', type: 'application/x-mpegURL'},
             ]
         },
                 		        {
             name: ' ',
-            poster: 'img/sangeet-bangla.png',
-            thumbnail: 'img/sangeet-bangla.png',
+            poster: 'https://minhaz-0.github.io/online247/img/sangeet-bangla.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/sangeet-bangla.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8', type: 'application/x-mpegURL'},
@@ -440,18 +432,18 @@ $(document).ready(function () {
         },
       {
             name: ' ',
-            poster: 'img/9xjalwa.png',
-            thumbnail: 'img/9xjalwa.png',
+            poster: 'https://minhaz-0.github.io/online247/img/9xjalwa.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/9xjalwa.png',
             autoplay: 'true',
             sources: [
-                {src: 'https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa/.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8', type: 'application/x-mpegURL'},
             ]
         },
         
             {
                   name: '',
-            poster: 'img/showbox.png',
-            thumbnail: 'img/showbox.png',
+            poster: 'https://minhaz-0.github.io/online247/img/showbox.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/showbox.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://epiconvh.s.llnwi.net/showbox/master.m3u8', type: 'application/x-mpegURL'},
@@ -460,29 +452,19 @@ $(document).ready(function () {
         
              {
             name: ' ',
-            poster: 'img/mtv.png',
-            thumbnail: 'img/mtv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/mtv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/mtv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8', type: 'application/x-mpegURL'},
             ]
         },
-        /*
-                   {
-                  name: ' ',
-            poster: 'img/hungama.png',
-            thumbnail: 'img/hungama.png',
-            autoplay: 'true',
-            sources: [
-                {src: 'https://live.hungama.com/linear/dil-se/playlist.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-        */
+    
 
 		    {
             name: ' ',
-            poster: 'img/somoytv.png',
-            thumbnail: 'img/somoytv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/somoytv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/somoytv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -491,8 +473,8 @@ $(document).ready(function () {
 
 				    {
             name: ' ',
-            poster: 'img/independent.png',
-            thumbnail: 'img/independent.png',
+            poster: 'https://minhaz-0.github.io/online247/img/independent.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/independent.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -501,8 +483,8 @@ $(document).ready(function () {
 		
 				    {
             name: ' ',
-            poster: 'img/banglavision.png',
-            thumbnail: 'img/banglavision.png',
+            poster: 'https://minhaz-0.github.io/online247/img/banglavision.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/banglavision.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -511,8 +493,8 @@ $(document).ready(function () {
 		
 				    {
             name: ' ',
-            poster: 'img/btvworld.png',
-            thumbnail: 'img/btvworld.png',
+            poster: 'https://minhaz-0.github.io/online247/img/btvworld.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/btvworld.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -521,18 +503,18 @@ $(document).ready(function () {
 		
 						    {
             name: ' ',
-            poster: 'img/channel24.png',
-            thumbnail: 'img/channel24.png',
+            poster: 'https://minhaz-0.github.io/online247/img/channel24.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/channel24.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
 		
-						    {
+		  {
             name: ' ',
-            poster: 'img/doyeltv.png',
-            thumbnail: 'img/doyeltv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/doyeltv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/doyeltv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -541,8 +523,8 @@ $(document).ready(function () {
 		
 						    {
             name: ' ',
-            poster: 'img/voice.png',
-            thumbnail: 'img/voice.png',
+            poster: 'https://minhaz-0.github.io/online247/img/voice.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/voice.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -551,80 +533,40 @@ $(document).ready(function () {
 		
 								    {
             name: ' ',
-            poster: 'img/mytv.png',
-            thumbnail: 'img/mytv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/mytv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/mytv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
-		/*
-		 {
-            name: 'GANN BANGLA HD',
-            poster: 'https://minhaz-0.github.io/img/gannbangla.jpg',
-            thumbnail: 'https://minhaz-0.github.io/img/gannbangla.jpg',
-            autoplay: 'true',
-            sources: [
-                {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-	   
-        {
-            name: 'BANGLA TV HD',
-            poster: 'https://minhaz-0.github.io/img/banglatv.jpg',
-            thumbnail: 'https://minhaz-0.github.io/img/banglatv.jpg',
-            autoplay: 'true',
-            sources: [
-                {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-	    
-        {
-            name: 'DESH TV',
-            poster: 'https://minhaz-0.github.io/img/deshtv.jpg',
-            thumbnail: 'https://minhaz-0.github.io/img/deshtv.jpg',
-            autoplay: 'true',
-            sources: [
-                {src: 'https://somoy.appv.jagobd.com:444/somoy/deshtv.stream/live-orgin/deshtv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-	
+		
         {
             name: ' ',
-            poster: 'img/mohonatv.png',
-            thumbnail: 'img/mohonatv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/mohonatv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/mohonatv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
-	    
+	    /*
         {
             name: ' ',
-            poster: 'img/sonyaath.png',
-            thumbnail: 'img/sonyaath.png',
+            poster: 'https://minhaz-0.github.io/online247/img/sonyaath.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/sonyaath.png',
             autoplay: 'true',
             sources: [
                 {src: 'http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8', type: 'application/x-mpegURL'},
             ]
         },
+		*/
 
-{
-            name: ' ',
-            poster: 'img/bijoytv.png',
-            thumbnail: 'img/bijoytv.png',
-            autoplay: 'true',
-            sources: [
-                {src: 'https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-
-*/
 
         {
             name: ' ',
-            poster: 'img/nrbbd.png',
-            thumbnail: 'img/nrbbd.png',
+            poster: 'https://minhaz-0.github.io/online247/img/nrbbd.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/nrbbd.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -633,104 +575,38 @@ $(document).ready(function () {
 	    /*
         {
             name: 'SRISTY',
-            poster: 'img/Sristy.png',
-            thumbnail: 'img/Sristy.png',
+            poster: 'https://minhaz-0.github.io/online247/img/Sristy.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/Sristy.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
-	*/
+        */
+	
         {
             name: ' ',
-            poster: 'img/nandan.png',
-            thumbnail: 'img/nandan.png',
+            poster: 'https://minhaz-0.github.io/online247/img/nandan.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/nandan.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
-/*
+	
         {
             name: ' ',
-            poster: 'img/btv.png',
-            thumbnail: 'img/btv.png',
-            autoplay: 'true',
-            sources: [
-                {src: 'http://103.106.2.149:13456/sangsad.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-        */
-        {
-            name: ' ',
-            poster: 'img/deshvi.png',
-            thumbnail: 'img/deshvi.png',
+            poster: 'https://minhaz-0.github.io/online247/img/deshvi.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/deshvi.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
-	    /*
-        {
-            name: 'BTV CTG',
-            poster: '/img/cgtn.jpg',
-            thumbnail: '/img/cgtn.jpg',
-            autoplay: 'true',
-            sources: [
-                {src: 'https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8', type: 'application/x-mpegURL'},
-            ]
-        }, 
-	    
-   {
-            name: ' ',
-            poster: 'img/channeli.png',
-            thumbnail: 'img/channeli.png',
-            autoplay: 'true',
-            sources: [
-                {src: 'https://somoy.appv.jagobd.com:444/somoy/channeli-8-org.stream/lplaylist.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
 	{
             name: ' ',
-            poster: 'img/jamunatv.png',
-            thumbnail: 'img/jamunatv.png',
-            autoplay: 'true',
-            sources: [
-                {src: 'https://somoy.appv.jagobd.com:444/somoy/jamuna-test-sample-ok.stream/playlist.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-	{
-            name: ' ',
-            poster: 'img/atnbangla.png',
-            thumbnail: 'img/atnbangla.png',
-            autoplay: 'true',
-            sources: [
-                {src: 'https://somoy.appv.jagobd.com:444/somoy/atnbd-8-org.stream/playlist.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-	{
-            name: ' ',
-            poster: 'img/ekattortv.png',
-            thumbnail: 'img/ekattortv.png',
-            autoplay: 'true',
-            sources: [
-                {src: 'http://103.159.4.38:9191/BD-BANGLA-7/tracks-v1a1/mono.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-	{
-            name: ' ',
-            poster: 'img/news24.png',
-            thumbnail: 'img/news24.png',
-            autoplay: 'true',
-            sources: [
-                {src: 'https://somoy.appv.jagobd.com:444/somoy/news24local.stream/playlist.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-        */
-	{
-            name: ' ',
-            poster: 'img/timetv.png',
-            thumbnail: 'img/timetv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/timetv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/timetv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://egress-1.do-ny-3.ttv.dotworldcorp.com/hls/ttv/index.m3u8?', type: 'application/x-mpegURL'},
@@ -739,8 +615,8 @@ $(document).ready(function () {
         
 	{
             name: ' ',
-            poster: 'img/satv.png',
-            thumbnail: 'img/satv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/satv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/satv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -748,8 +624,8 @@ $(document).ready(function () {
         },
 	{
             name: ' ',
-            poster: 'img/ekusheytv.png',
-            thumbnail: 'img/ekusheytv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/ekusheytv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/ekusheytv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8', type: 'application/x-mpegURL'},
@@ -757,8 +633,8 @@ $(document).ready(function () {
         },
 	{
             name: ' ',
-            poster: 'img/banglatv.png',
-            thumbnail: 'img/banglatv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/banglatv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/banglatv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -766,8 +642,8 @@ $(document).ready(function () {
         },
 	{
             name: ' ',
-            poster: 'img/bijoytv.png',
-            thumbnail: 'img/bijoytv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/bijoytv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/bijoytv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -775,8 +651,8 @@ $(document).ready(function () {
         },
         {
             name: ' ',
-            poster: 'img/boishakhitv.png',
-            thumbnail: 'img/boishakhitv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/boishakhitv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/boishakhitv.png',
             autoplay: 'true',
             sources: [
                {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -784,8 +660,8 @@ $(document).ready(function () {
         },
         {
             name: ' ',
-            poster: 'img/channel9.png',
-            thumbnail: 'img/channel9.png',
+            poster: 'https://minhaz-0.github.io/online247/img/channel9.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/channel9.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -793,73 +669,37 @@ $(document).ready(function () {
         },
         {
             name: ' ',
-            poster: 'img/maasranga.png',
-            thumbnail: 'img/maasranga.png',
+            poster: 'https://minhaz-0.github.io/online247/img/maasranga.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/maasranga.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
-	    /*
-	{
-            name: '',
-            poster: 'img/independent.png',
-            thumbnail: 'img/independent.png',
-            autoplay: 'true',
-            sources: [
-                {src: 'https://somoy.appv.jagobd.com:444/somoy/independent-8-org.stream/playlist.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
+	  /*
 	{
             name: ' ',
-            poster: 'img/somoytv.png',
-            thumbnail: 'img/somoytv.png',
-            autoplay: 'true',
-            sources: [
-                {src: 'https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-        {
-            name: ' ',
-            poster: 'img/independent.png',
-            thumbnail: 'img/independent.png',
-            autoplay: 'true',
-            sources: [
-                {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-	{
-            name: ' ',
-            poster: 'img/banglavision.png',
-            thumbnail: 'img/banglavision.png',
-            autoplay: 'true',
-            sources: [
-                {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-	{
-            name: ' ',
-            poster: 'img/somoytv.png',
-            thumbnail: 'img/somoytv.png',
-            autoplay: 'true',
-            sources: [
-                {src: 'https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-	{
-            name: ' ',
-            poster: 'img/btv.png',
-            thumbnail: 'img/btv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/btv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/btv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
         */
+        {
+        name: ' ',
+        poster: 'https://minhaz-0.github,io/online247/img/roaltv.png',
+        thumbnail: 'https://minhaz-0.github.io/online247/img/roaltv.png',
+        autoplay: 'true',
+        sources: [
+        {src: 'https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
+        ]
+        },
 	{
             name: ' ',
-            poster: 'img/magicbangla.png',
-            thumbnail: 'img/magicbangla.png',
+            poster: 'https://minhaz-0.github.io/online247/img/magicbangla.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/magicbangla.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/magicbanglatv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -868,8 +708,8 @@ $(document).ready(function () {
         
 	{
             name: ' ',
-            poster: 'img/jagonews24.png',
-            thumbnail: 'img/jagonews24.png',
+            poster: 'https://minhaz-0.github.io/online247/img/jagonews24.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/jagonews24.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagonews24.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -878,8 +718,8 @@ $(document).ready(function () {
         
 	{
             name: ' ',
-            poster: 'img/bangla21.png',
-            thumbnail: 'img/bangla21.png',
+            poster: 'https://minhaz-0.github.io/online247/img/bangla21.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/bangla21.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -888,8 +728,8 @@ $(document).ready(function () {
         /*
 	{
             name: ' ',
-            poster: 'img/gannbangla.png',
-            thumbnail: 'img/gannbangla.png',
+            poster: 'https://minhaz-0.github.io/online247/img/gannbangla.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/gannbangla.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://somoy.appv.jagobd.com:444/somoy/gaanbangla-8-orgd.stream/playlist.m3u8', type: 'application/x-mpegURL'},
@@ -898,8 +738,8 @@ $(document).ready(function () {
         */
 	{
             name: ' ',
-            poster: 'img/deeptotv.png',
-            thumbnail: 'img/deeptotv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/deeptotv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/deeptotv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -907,8 +747,8 @@ $(document).ready(function () {
         },
 	{
             name: ' ',
-            poster: 'img/atnnews.png',
-            thumbnail: 'img/atnnews.png',
+            poster: 'https://minhaz-0.github.io/online247/img/atnnews.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/atnnews.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -917,8 +757,8 @@ $(document).ready(function () {
 	    
 	{
             name: ' ',
-            poster: 'img/cnnbangla.png',
-            thumbnail: 'img/cnnbangla.png',
+            poster: 'https://minhaz-0.github.io/online247/img/cnnbangla.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/cnnbangla.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
@@ -926,8 +766,8 @@ $(document).ready(function () {
         },
 	{
             name: ' ',
-            poster: 'img/anandatv.png',
-            thumbnail: 'img/anandatv.png',
+            poster: 'https://minhaz-0.github.io/online247/img/anandatv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/anandatv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://tempx.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8', type: 'application/x-mpegURL'},
@@ -936,8 +776,8 @@ $(document).ready(function () {
 	    /*
 	{
             name: ' ',
-            poster: 'img/deshtv.jpg',
-            thumbnail: 'img/deshtv.jpg',
+            poster: 'https://minhaz-0.github.io/online247/img/deshtv.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/deshtv.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://somoy.appv.jagobd.com:444/somoy/deshtv.stream/playlist.m3u8', type: 'application/x-mpegURL'},
@@ -946,8 +786,8 @@ $(document).ready(function () {
         */
 	{
             name: ' ',
-            poster: 'img/atn.png',
-            thumbnail: 'img/atn.png',
+            poster: 'https://minhaz-0.github.io/online247/img/atn.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/atn.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8', type: 'application/x-mpegURL'},
@@ -956,8 +796,8 @@ $(document).ready(function () {
 	
 	{
             name: ' ',
-            poster: 'img/madani.png',
-            thumbnail: 'img/madani.png',
+            poster: 'https://minhaz-0.github.io/online247/img/madani.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/madani.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8', type: 'application/x-mpegURL'},
@@ -966,8 +806,8 @@ $(document).ready(function () {
 
 {
             name: ' ',
-            poster: 'img/iqrabangla.png',
-            thumbnail: 'img/iqrabangla.png',
+            poster: 'https://minhaz-0.github.io/online247/img/iqrabangla.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/iqrabangla.png',
             autoplay: 'true',
             sources: [
                 {src: 'https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8', type: 'application/x-mpegURL'},

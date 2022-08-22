@@ -8,9 +8,10 @@ $(document).ready(function () {
             thumbnail: 'https://minhaz-0.github.io/online247/img/tsports.png',
             autoplay: 'true',
             sources: [
-                {src: 'https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://tv.kotha.im/TSports_HD/index.m3u8', type: 'application/x-mpegURL'},
             ]
         },
+
         {
         name: ' ',
         poster: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjZWIaGSgCgjSXL__MwvIu3bmePAQqy1xOw&usqp=CAU',
@@ -20,51 +21,52 @@ $(document).ready(function () {
         {src: 'https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8', type: 'application/x-mpegURL'},
         ]
         }, 
-        /*
         {
-            name: ' ',
-            poster: 'https://minhaz-0.github.io/img/tsports.jpg',
-            thumbnail: 'https://minhaz-0.github.io/img/tsports.png',
+            name: 'GAZI TV HD',
+            poster: 'https://minhaz-0.github.io/img/gtv.jpg',
+            thumbnail: 'https://minhaz-0.github.io/img/gtv.jpg',
             autoplay: 'true',
             sources: [
-                {src: 'https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/playlist.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://tv.kotha.im/GTV_HD/index.m3u8', type: 'application/x-mpegURL'},
             ]
         },  
      
        {
-            name: 'EKATTOR TV',
+            name: 'EKATTOR TV HD',
             poster: 'https://minhaz-0.github.io/img/ekattortv.jpg',
             thumbnail: 'https://minhaz-0.github.io/img/ekattortv.jpg',
             autoplay: 'true',
             sources: [
-                {src: 'http://103.136.200.246:8082/Ekattor-tv/index.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://tv.kotha.im/Ekattor_TV_HD/index.m3u8', type: 'application/x-mpegURL'},
             ]
         },
+/*
        {
             name: 'STAR JALSHA HD',
             poster: 'https://minhaz-0.github.io/img/starjalshahd.jpg',
             thumbnail: 'https://minhaz-0.github.io/img/starjalshahd.jpg',
             autoplay: 'true',
             sources: [
-                {src: 'http://103.159.4.38:9191/CH24-INBD3/tracks-v1a1/mono.m3u8', type: 'application/x-mpegURL'},
+                {src: 'http://103.109.56.116/live/skyfeed1003/index.m3u8', type: 'application/x-mpegURL'},
             ]
         },
+               
                {
+            name: 'ZEE BANGLA HD',
+            poster: 'https://minhaz-0.github.io/img/zeebanglahd.jpg',
+            thumbnail: 'https://minhaz-0.github.io/img/zeebanglahd.jpg',
+            autoplay: 'true',
+            sources: [
+                {src: 'http://103.109.56.116/live/skyfeed1004/index.m3u8', type: 'application/x-mpegURL'},
+            ]
+        },
+ {
             name: 'COLORS BANGLA HD',
             poster: 'https://minhaz-0.github.io/img/colorsbanglahd.jpg',
             thumbnail: 'https://minhaz-0.github.io/img/colorsbanglahd.jpg',
             autoplay: 'true',
             sources: [
-                {src: 'http://103.159.4.38:9191/CH25-INBD4/tracks-v1a1/mono.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-               {
-            name: 'SONY TEN 1 HD',
-            poster: 'https://minhaz-0.github.io/img/sonyten1.jpg',
-            thumbnail: 'https://minhaz-0.github.io/img/sonyten1.jpg',
-            autoplay: 'true',
-            sources: [
-                {src: 'http://103.205.132.165:8800/hls/stream1.m3u8', type: 'application/x-mpegURL'},
+                {src: 'http://208.86.19.13:81/904.stream/index.m3u8', type: 'application/x-mpegURL'},
             ]
         },
         

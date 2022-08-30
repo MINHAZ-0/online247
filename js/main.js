@@ -8,6 +8,15 @@ $(document).ready(function () {
             thumbnail: 'https://minhaz-0.github.io/online247/img/tsports.png',
             autoplay: 'true',
             sources: [
+                {src: 'https://51.smartcric.eu/mobile/stream2_320p/playlist.m3u8?vidictid=192341070411&id=7&pk=2baba6ed29d3a03c6781ae2dfcd0120ca150dc9b608f27120b43fde7a3d63d43', type: 'application/x-mpegURL'},
+            ]
+        },
+                {
+            name: ' ',
+            poster: 'https://minhaz-0.github.io/online247/img/tsports.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/tsports.png',
+            autoplay: 'true',
+            sources: [
                 {src: 'https://tv.kotha.im/TSports_HD/index.m3u8', type: 'application/x-mpegURL'},
             ]
         },

@@ -36,7 +36,7 @@ $(document).ready(function () {
             thumbnail: 'https://minhaz-0.github.io/img/gtv.jpg',
             autoplay: 'true',
             sources: [
-                {src: 'https://tv.kotha.im/GTV_HD/index.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },  
      

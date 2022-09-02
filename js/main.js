@@ -8,7 +8,7 @@ $(document).ready(function () {
             thumbnail: 'https://minhaz-0.github.io/online247/img/starsports.png',
             autoplay: 'true',
             sources: [
-                {src: 'https://flex365.tv:5443/WebRTCApp/streams/371216879725109234286572.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://51.smartcric.eu/mobile/stream2_320p/playlist.m3u8?vidictid=192341070411&id=7&pk=2baba6ed29d3a03c6781ae2dfcd0120ca150dc9b608f27120b43fde7a3d63d43', type: 'application/x-mpegURL'},
             ]
         },
                 {
@@ -36,7 +36,7 @@ $(document).ready(function () {
             thumbnail: 'https://minhaz-0.github.io/img/gtv.jpg',
             autoplay: 'true',
             sources: [
-                {src: 'https://51.smartcric.eu/mobile/stream2_320p/playlist.m3u8?vidictid=192341070411&id=7&pk=2baba6ed29d3a03c6781ae2dfcd0120ca150dc9b608f27120b43fde7a3d63d43', type: 'application/x-mpegURL'},
+                {src: 'https://vsd103.mycdn.me/hls/2991111604909.m3u8/sig/-kxZ0qmNKJw/expires/1662202637061/srcIp/74.82.60.91/clientType/1/srcAg/CHROME/mid/4246583451309/video.m3u8', type: 'application/x-mpegURL'},
             ]
         },  
      

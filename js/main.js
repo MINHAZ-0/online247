@@ -4,11 +4,11 @@ $(document).ready(function () {
     player.playlist([
                 {
             name: ' ',
-            poster: 'https://minhaz-0.github.io/online247/img/tsports.png',
-            thumbnail: 'https://minhaz-0.github.io/online247/img/tsports.png',
+            poster: 'https://minhaz-0.github.io/online247/img/starsports.png',
+            thumbnail: 'https://minhaz-0.github.io/online247/img/starsports.png',
             autoplay: 'true',
             sources: [
-                {src: 'https://51.smartcric.eu/mobile/stream2_320p/playlist.m3u8?vidictid=192341070411&id=7&pk=2baba6ed29d3a03c6781ae2dfcd0120ca150dc9b608f27120b43fde7a3d63d43', type: 'application/x-mpegURL'},
+                {src: 'https://flex365.tv:5443/WebRTCApp/streams/371216879725109234286572.m3u8', type: 'application/x-mpegURL'},
             ]
         },
                 {
@@ -36,7 +36,7 @@ $(document).ready(function () {
             thumbnail: 'https://minhaz-0.github.io/img/gtv.jpg',
             autoplay: 'true',
             sources: [
-                {src: 'https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://51.smartcric.eu/mobile/stream2_320p/playlist.m3u8?vidictid=192341070411&id=7&pk=2baba6ed29d3a03c6781ae2dfcd0120ca150dc9b608f27120b43fde7a3d63d43', type: 'application/x-mpegURL'},
             ]
         },  
      

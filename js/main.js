@@ -8,7 +8,7 @@ $(document).ready(function () {
             thumbnail: 'https://minhaz-0.github.io/online247/img/starsports.png',
             autoplay: 'true',
             sources: [
-                {src: 'https://51.smartcric.eu/mobile/stream2_320p/playlist.m3u8?vidictid=192341070411&id=7&pk=2baba6ed29d3a03c6781ae2dfcd0120ca150dc9b608f27120b43fde7a3d63d43', type: 'application/x-mpegURL'},
+                {src: 'https://live-ak.vimeocdn.com/exp=1664719685~acl=%2Fe24e0319-b822-498f-b952-53e528813ec4%2F%2A~hmac=d5de5891a7447e4b9a3ae7d1b76c1ed461554210a224f1ff94233fef4d6b1f27/e24e0319-b822-498f-b952-53e528813ec4/chunklist_b2056000.m3u8', type: 'application/x-mpegURL'},
             ]
         },
                 {

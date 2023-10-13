@@ -8573,7 +8573,7 @@ video::-webkit-media-text-track-display {
 }
 
 .vjs-playlist .vjs-playlist-item {
-    position: ;
+    position: relative;
     cursor: pointer;
     overflow: hidden
 }
